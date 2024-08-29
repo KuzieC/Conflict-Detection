@@ -94,10 +94,3 @@ This project presents a highly efficient and scalable method for detecting route
 
 For a detailed list of references and further reading, please refer to the original document.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
-## Contact
-
-For any questions or collaboration opportunities, please contact Guanzhi Chen at [email@example.com](mailto:email@example.com).
